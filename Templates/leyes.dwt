@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin t&iacute;tulo</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+<link href="../estilos/leyes.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="../favicon.ico">
+
+<script type="text/javascript" language="JavaScript1.2" src="../menu/apymenu.js"></script>
+<script type="text/JavaScript" language="JavaScript1.2" src="../menu/leyes.js"></script>
+
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+
+</head>
+
+
+
+<body text="#000000" leftmargin="0" topmargin="0">
+
+<a name="ini"></a>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="840"><a href="../paginas/index.html"><img src="../imagenes/cabecera.gif" width="840" height="160" border="0"></a></td>
+    <td rowspan="3" background="../imagenes/naranja.gif" width="163">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0" background="../imagenes/ppal.gif">
+				<tr>
+          <td background="../imagenes/naranja.gif" height="8"></td>
+				</tr>
+		    <tr>
+					<td><div><img src="../imagenes/forma_arriba.gif" width="840" height="42"></div></td>
+				</tr>
+				<tr>
+					<td width="840">
+						<table cellpadding="16" class="normal" align="justify">
+						<tr>
+						<td>
+						<!-- TemplateBeginEditable name="Edit1" -->
+						
+						
+						
+						
+						<!-- TemplateEndEditable -->
+						</td>
+						</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td><div align="center"><a href="../paginas/index.html"><img src="../imagenes/logoico.gif" width="120" height="120" border="0"></a></div></td>
+				</tr>
+				<tr>
+					<td><div><img src="../imagenes/forma_abajo.gif" width="840" height="42"></div></td>
+				</tr>
+			</table>
+    </td>
+  </tr>
+	<tr>
+		<td>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+					<td colspan="7" height="20" background="../imagenes/naranja.gif"></td>
+				</tr>
+				<tr>
+					<td width="20" height="40" background="../imagenes/naranja.gif"></td>
+					<td width="160" height="40"><a href="#ini"><img src="../imagenes/bot_ini.gif" width="160" height="40" border="0"></a></td>
+					<td width="160" height="40"><a href="../paginas/leyes.html"><img src="../imagenes/bot_lis.gif" width="160" height="40" border="0"></a></td>
+					<td width="160" height="40"><!-- TemplateBeginEditable name="Indice1" --><!-- TemplateEndEditable --><img src="../imagenes/bot_ind.gif" width="160" height="40" border="0"><!-- TemplateBeginEditable name="Indice2" --><!-- TemplateEndEditable --></td>
+					<td width="160" height="40"><!-- TemplateBeginEditable name="Ant1" --><!-- TemplateEndEditable --><img src="../imagenes/bot_ant.gif" width="160" height="40" border="0"><!-- TemplateBeginEditable name="Ant2" --><!-- TemplateEndEditable --></td>
+					<td width="160" height="40"><!-- TemplateBeginEditable name="Sig1" --><!-- TemplateEndEditable --><img src="../imagenes/bot_sig.gif" width="160" height="40" border="0"><!-- TemplateBeginEditable name="Sig2" --><!-- TemplateEndEditable --></td>
+					<td width="20" height="40" background="../imagenes/naranja.gif"></td>
+				</tr>
+				<tr>
+					<td colspan="7" height="20" background="../imagenes/naranja.gif"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+
+<a name="fin"></a>
+
+</body>
+</html>

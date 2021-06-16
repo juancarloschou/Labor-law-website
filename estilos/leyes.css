@@ -1,0 +1,115 @@
+leyes {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #00CC00;
+	background-color: #FFFFFF;
+}
+.leyes {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22px;
+	color: #000000;
+	font-weight: normal;
+}
+.normal {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+}
+.articulo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #336600;
+	list-style-type: square;
+
+}
+.seccion {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	list-style-type: square;
+
+}
+.capitulo {
+	font-family: "Courier New", Courier, mono;
+	font-size: 18px;
+	font-weight: bold;
+	color: #0000FF;
+	list-style-type: disc;
+
+}
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #CC0000;
+	list-style-type: disc;
+
+}
+.libro {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: #CC9900;
+}
+.disposicion {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #FF6600;
+	list-style-type: disc;
+
+}
+.subseccion {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #666666;
+}
+.anexo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #9933CC;
+}
+.texto {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+}
+.subcapitulo {
+	font-family: "Courier New", Courier, mono;
+	font-size: 18px;
+	color: #009933;
+	font-weight: bold;
+
+}
+.tabla {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: normal;
+
+}
+.tit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CC0000;
+
+}
+.cap {
+	font-family: "Courier New", Courier, mono;
+	font-size: 16px;
+	font-weight: bold;
+	color: #0000FF;
+}
